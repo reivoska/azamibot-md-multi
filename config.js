@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 // Real Owner moved to db.data.datas.rowner
-global.mods = ['6282337245566', '6285392167868'] // Developer / Mods Number
+global.mods = ['6281295546299', '6281295546299'] // Developer / Mods Number
 global.APIs = { // API Prefix
 	// name: 'https://website'
 	nrtm: 'https://nurutomo.herokuapp.com',
